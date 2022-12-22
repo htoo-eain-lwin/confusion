@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+#misc
+.DS_Store
+
+npm-debug.log*
+
+#tests
+/test-app
+
+#editors
+.vscode
